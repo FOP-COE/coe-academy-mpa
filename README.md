@@ -54,6 +54,10 @@ This platform serves multiple strategic objectives within the Amadeus ecosystem:
 - **Feedback System** - QR code-based feedback collection
 - **Downloadable Resources** - Sample flows and templates
 
+## Handover
+
+For future maintainers, start with [HANDOVER_GUIDE.md](HANDOVER_GUIDE.md) and [docs/TRANSFER_SCOPE.md](docs/TRANSFER_SCOPE.md).
+
 
 ## Technology Stack
 
